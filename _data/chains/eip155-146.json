@@ -20,6 +20,11 @@
       "url": "https://explorer.soniclabs.com",
       "icon": "sonic",
       "standard": "none"
+    },
+    {
+      "name": "sonicscan",
+      "url": "https://sonicscan.org",
+      "standard": "EIP3091"
     }
   ]
 }

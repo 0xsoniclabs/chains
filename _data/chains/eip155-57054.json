@@ -20,6 +20,11 @@
       "url": "https://explorer.blaze.soniclabs.com",
       "icon": "sonic",
       "standard": "none"
+    },
+    {
+      "name": "testnet sonicscan",
+      "url": "https://testnet.sonicscan.org",
+      "standard": "EIP3091"
     }
   ]
 }
